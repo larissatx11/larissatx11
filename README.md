@@ -1,7 +1,7 @@
-# Olá, eu sou a Larissa!
+# 👋 Olá, eu sou a Larissa!
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Teixeira, tenho 21 anos e sou natural do Ceará. Atualmente, estou cursando Ciência da Computação na UFC.
+Sou apaixonada por desenvolvimento de software e gosto de trabalhar tanto no frontend quanto no backend. Tenho interesse em tecnologias como Java, C#, React e estou sempre buscando aprender mais sobre arquitetura de sistemas e boas práticas de código.
 
 <h3 align="left">Connect with me!</h3>
 <div> 
@@ -13,13 +13,13 @@ Me chamo Larissa Teixeira, tenho 21 anos e sou natural do Ceará. Atualmente, es
 <div style="display: inline_block">
   <h3 align="left">My Stack</h3>
   <img align="center" alt="Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Csharp" title="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Larissa-Csharp" title="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Larissa-Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Larissa-Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Larissa-React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Larissa-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Larissa-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Larissa-Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
 <h3>GitHub Stats</h3>
@@ -29,4 +29,8 @@ Me chamo Larissa Teixeira, tenho 21 anos e sou natural do Ceará. Atualmente, es
   <a href="https://github.com/larissatx11/github-readme-stats">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=larissatx11&line_height=100&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=buefy&count_private=true" alt="Most Used Languages">
   </a>
+
 </div>
+
+
+

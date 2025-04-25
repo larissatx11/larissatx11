@@ -23,21 +23,10 @@ Me chamo Larissa Teixeira, tenho 21 anos e sou natural do Ceará. Atualmente, es
 </div>
 
 <h3>GitHub Stats</h3>
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=larissatx11&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_title=true" 
-  />
+<div style="text-align: center;" align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=larissatx11&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&theme=buefy" alt="GitHub stats">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissatx11&theme=buefy&layout=compact&custom_title=Most+Used+Languages&langs_count=9&count_private=true" 
-  />
-</p>
-
-![snake gif](https://github.com/larissatx11/larissatx11/blob/main/github-contribution-grid-snake.svg)
+  <a href="https://github.com/larissatx11/github-readme-stats">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=larissatx11&line_height=100&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=buefy&count_private=true" alt="Most Used Languages">
+  </a>
+</div>

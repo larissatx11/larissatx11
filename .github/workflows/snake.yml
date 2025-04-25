@@ -3,16 +3,16 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"  # Roda todo dia à meia-noite
-  workflow_dispatch:       # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Snake
+      - name: Generate GitHub Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: larissatx11
@@ -21,10 +21,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          persist-credentials: false
+          user_name: Larissa Teixeira
+          user_email: larissatx11@users.noreply.github.com

@@ -39,3 +39,5 @@ Me chamo Larissa Teixeira, tenho 21 anos e sou natural do Ceará. Atualmente, es
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissatx11&theme=buefy&layout=compact&custom_title=Most+Used+Languages&langs_count=9&count_private=true" 
   />
 </p>
+
+![snake gif](https://github.com/larissatx11/larissatx11/blob/main/github-contribution-grid-snake.svg)

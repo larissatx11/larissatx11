@@ -22,10 +22,6 @@ Sou apaixonada por desenvolvimento de software e gosto de trabalhar tanto no fro
   <img align="center" alt="Larissa-Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
-  <a href="https://github.com/larissatx11/github-readme-stats">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=larissatx11&line_height=100&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=buefy&count_private=true" alt="Most Used Languages">
-  </a>
-
 </div>
 
 

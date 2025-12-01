@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Larissa!
+# 👩‍💻 Larissa Teixeira
 
 Software developer with experience in building web applications, frontend development, and data-driven solutions.
 
